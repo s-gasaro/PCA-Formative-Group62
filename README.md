@@ -31,8 +31,8 @@ PCA-Formative-Group62/
 No sklearn or any other ML libraries were used.
 
 ## How to Run
-1. Open [Template_PCA_Formative_2_Group62.ipynb](Template_PCA_Formative_2_Group62.ipynb) in Google Colab
-2. Upload [african_crises.csv](african_crises.csv) to `/content/`
+1. Open [Template_PCA_Formative_2_Group62.ipynb] in Google Colab
+2. Upload [african_crises.csv] to /content/
 3. Run all cells top to bottom
 
 ## Group Members
@@ -40,4 +40,4 @@ No sklearn or any other ML libraries were used.
 - Nina Bwiza Cyndy
 
 ## Task Contributions
-See [Contribution_Sheet_Group62.pdf](file:///C:/Users/EVOTECH/Downloads/BSE%20Group%20Assignments%20_%20Task%20Sheet_Mathematics%20for%20Machine%20Learning_Formative%202%20-%20Principle%20Component%20Analysis_Cohort%203_Group%2062]%20-%201.pdf) for the full contribution and meeting attendance log.
+See [Contribution_Sheet_Group62.pdf] for the full contribution and meeting attendance log.
