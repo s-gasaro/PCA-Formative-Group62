@@ -31,8 +31,8 @@ PCA-Formative-Group62/
 No sklearn or any other ML libraries were used.
 
 ## How to Run
-1. Open `Template_PCA_Formative_2_Group62.ipynb` in Google Colab
-2. Upload `african_crises.csv` to `/content/`
+1. Open [Template_PCA_Formative_2_Group62.ipynb] in Google Colab
+2. Upload [african_crises.csv] to [/content/]
 3. Run all cells top to bottom
 
 ## Group Members
@@ -40,4 +40,4 @@ No sklearn or any other ML libraries were used.
 - Nina Bwiza Cyndy
 
 ## Task Contributions
-See `Contribution_Sheet_Group62.pdf` for the full contribution and meeting attendance log.
+See [Contribution_Sheet_Group62.pdf] for the full contribution and meeting attendance log.
