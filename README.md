@@ -40,4 +40,4 @@ No sklearn or any other ML libraries were used.
 - Nina Bwiza Cyndy
 
 ## Task Contributions
-See [Contribution_Sheet_Group62.pdf](Contribution_Sheet_Group62.pdf) for the full contribution and meeting attendance log.
+See [Contribution_Sheet_Group62.pdf](file:///C:/Users/EVOTECH/Downloads/BSE%20Group%20Assignments%20_%20Task%20Sheet_Mathematics%20for%20Machine%20Learning_Formative%202%20-%20Principle%20Component%20Analysis_Cohort%203_Group%2062]%20-%201.pdf) for the full contribution and meeting attendance log.
