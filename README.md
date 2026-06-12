@@ -1,4 +1,5 @@
 PCA Formative Assignment — Group 62
+
 This project implements Principal Component Analysis (PCA) from scratch using NumPy only, applied to the Africa Economic, Banking and Systemic Crisis dataset. The goal is to reduce an 11-feature matrix to a lower-dimensional space while retaining as much variance as possible.
 Dataset
 
